@@ -8,7 +8,11 @@ The dashboard enables data-driven decision making through dynamic pivot tables, 
 
 This project analyzes investment dataset patterns and transforms raw financial data into actionable insights using Excel analytics and visualization tools.
 
-The dashboard was developed using structured tasks including gender analysis, investment preference evaluation, objective/source analysis, duration/expectation trends, and correlation modeling. 
+The dashboard was developed using structured tasks including gender analysis, investment preference evaluation, objective/source analysis, duration/expectation trends, and correlation modeling.
+
+### 🏥 Comprehensive Investment Analysis Dashboard — MS EXCEL
+
+<img src="Comperhensive Analysis Dashboard Excel.png" width="100%" />
 
 ## Business Objective
 
