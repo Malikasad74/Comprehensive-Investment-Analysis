@@ -7,6 +7,7 @@ The Comprehensive Investment Analysis Dashboard is an interactive Microsoft Exce
 This dashboard transforms raw financial dataset into actionable business insights using advanced Excel analytics including pivot modeling, statistical correlation analysis, and interactive dashboard filtering.
 
 ## 🏥 Investment Analysis Dashboard — MS Excel
+
 <img src="Comperhensive Analysis Dashboard Excel.png" width="100%" alt="Investment Dashboard Preview"/>
 
 ## Business Objective
@@ -23,17 +24,31 @@ This dashboard transforms raw financial dataset into actionable business insight
 
 6. Enable stakeholders to explore insights interactively
 
-## Dataset Description
+## 📊 Key Business Questions Answered
 
-The dataset contains:
+1. Which gender group invests more?
 
-Category	     Description
-Demographics	 Gender, Age
-Investment    Behavior	Preferred Investment Avenues
-Financial     Goals	Savings Objectives
-Investment    Timeline	Duration of Investments
-Financial     Expectations	Expected Returns
-Awareness     Channels	Information Sources
+2. Which investment avenue is most popular?
+
+3. What are the most common financial goals?
+
+4. How long do people typically invest?
+
+5. Does age influence investment return expectations?
+
+6. Which channels influence investor decisions most?
+
+
+## 🗂 Dataset Overview
+
+| Category               | Fields Included     |
+| ---------------------- | ------------------- |
+| 👥 Demographics        | Gender, Age         |
+| 💰 Investment Behavior | Investment Avenues  |
+| 🎯 Financial Goals     | Savings Objectives  |
+| ⏳ Investment Timeline  | Duration            |
+| 📈 Return Expectations | Expected Returns    |
+| 📡 Awareness Channels  | Information Sources |
 
 ## Tools & Technologies
 
