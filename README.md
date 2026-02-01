@@ -1,18 +1,13 @@
 # Comprehensive Investment Analysis Dashboard
 
-An interactive Microsoft Excel-based Investment Analytics Dashboard designed to analyze investment behavior, participant demographics, financial expectations, and correlations between investment variables.
+## Project Summary
 
-The dashboard enables data-driven decision making through dynamic pivot tables, slicers, and advanced Excel visualizations.
+The Comprehensive Investment Analysis Dashboard is an interactive Microsoft Excel analytics solution designed to analyze investor demographics, investment behavior, financial expectations, and statistical correlations between investment variables.
 
-## Project Overview
+This dashboard transforms raw financial dataset into actionable business insights using advanced Excel analytics including pivot modeling, statistical correlation analysis, and interactive dashboard filtering.
 
-This project analyzes investment dataset patterns and transforms raw financial data into actionable insights using Excel analytics and visualization tools.
-
-The dashboard was developed using structured tasks including gender analysis, investment preference evaluation, objective/source analysis, duration/expectation trends, and correlation modeling.
-
-### 🏥 Comprehensive Investment Analysis Dashboard — MS EXCEL
-
-<img src="Comperhensive Analysis Dashboard Excel.png" width="100%" />
+## 🏥 Investment Analysis Dashboard — MS Excel
+<img src="Comperhensive Analysis Dashboard Excel.png" width="100%" alt="Investment Dashboard Preview"/>
 
 ## Business Objective
 
