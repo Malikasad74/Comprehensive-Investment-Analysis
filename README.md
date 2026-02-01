@@ -1,5 +1,6 @@
 # Comprehensive Investment Analysis Dashboard
 
+
 ## Project Summary
 
 The Comprehensive Investment Analysis Dashboard is an interactive Microsoft Excel analytics solution designed to analyze investor demographics, investment behavior, financial expectations, and statistical correlations between investment variables.
@@ -62,7 +63,7 @@ Data Visualization Techniques
 
 # Dashboard Features
 
-# Gender Distribution Analysis
+## Gender Distribution Analysis
 
  ### Steps:
   1. Open the dataset in Excel.
@@ -70,7 +71,7 @@ Data Visualization Techniques
   3. Create a pie chart to visualize the gender distribution.
   4. Customize the chart's appearance.
 
-# Investment Preferences Analysis
+## Investment Preferences Analysis
 
  ### Steps:
   1. Use pivot tables to summarize data on investment avenues chosen by participants.
@@ -79,7 +80,7 @@ Data Visualization Techniques
   4. Create a stacked or grouped bar chart to visualize these reasons.
   5. Customize the charts for clarity and aesthetics.
 
-# Objective and Source Analysis
+## Objective and Source Analysis
 
 ### Steps:
   1. Summarize data on savings objectives using pivot tables.
@@ -88,7 +89,7 @@ Data Visualization Techniques
   4. Create a horizontal bar chart to display the frequency of each source.
   5. Customize the charts accordingly.
 
-# Duration and Expectations Analysis
+## Duration and Expectations Analysis
 
 ### Steps:
   1. Summarize investment durations using pivot tables.
@@ -97,7 +98,7 @@ Data Visualization Techniques
   4. Create a radar chart to illustrate these expectations.
   5. Customize the charts for clarity and aesthetics.
 
-# Correlation Analysis
+## Correlation Analysis
 
 ### Steps:
   1. Use the CORREL function to calculate correlation coefficients between age, investment duration, and expected returns.
@@ -105,7 +106,7 @@ Data Visualization Techniques
   3. Create a bubble chart to explore the relationship between investment duration and participants' expectations.
   4. Customize the charts for clarity and aesthetics.
 
-# Dashboard Creation
+## Dashboard Creation
 
 ### Steps:
   1. Select the most informative visualizations.
